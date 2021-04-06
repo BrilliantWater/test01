@@ -29,3 +29,5 @@ g = h;
 h = temp;
 console.log(g,h); // g=>2 h=>1
 
+
+console.log(111111);
